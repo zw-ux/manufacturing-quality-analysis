@@ -1,5 +1,5 @@
 # manufacturing-quality-analysis
-# 制造业产品品质EDA分析项目
+# 制造业产品品质数据分析项目
 数据集来源：Kaggle Textile Engineering Production Dataset
 工具：Python Pandas Numpy Matplotlib
 
